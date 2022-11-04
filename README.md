@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/asmauger/test.package/workflows/R-CMD-check/badge.svg)](https://github.com/asmauger/test.package/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/asmauger/test.package/branch/master/graph/badge.svg)](https://app.codecov.io/gh/asmauger/test.package?branch=master)
 <!-- badges: end -->
 
 The goal of test.package is to …
